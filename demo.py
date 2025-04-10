@@ -12,3 +12,4 @@ plt.title('Blobs Dataset')
 plt.xlabel('Feature 1')
 plt.ylabel('Feature 2')
 plt.show()
+dd
